@@ -1,0 +1,8 @@
+Customer,Age,Gender,Product,Quantity,Price,Date
+A,25.0,Male,Laptop,1,50000,2023-01-01
+B,30.0,Female,Phone,2,20000,2023-01-02
+C,,female,Tablet,1,15000,2023-01-03
+D,22.0,Male,Laptop,3,50000,2023-01-04
+E,28.0,FEMALE,Phone,2,20000,2023-01-05
+F,,male,Tablet,1,15000,2023-01-06
+A,25.0,Male,Laptop,1,50000,2023-01-01
